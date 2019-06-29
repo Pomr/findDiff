@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "b6a3f0a3-0df2-4c28-ac9e-3f958202a57c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "新浪提供-古书1_爱给网_aigei_com": {
+      "ver": "1.0.3",
+      "uuid": "d5dd4a4e-138b-48bf-8645-a62743c267eb",
+      "rawTextureUuid": "b6a3f0a3-0df2-4c28-ac9e-3f958202a57c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 2,
+      "width": 24,
+      "height": 19,
+      "rawWidth": 24,
+      "rawHeight": 24,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

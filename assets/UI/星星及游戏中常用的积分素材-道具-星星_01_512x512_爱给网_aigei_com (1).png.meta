@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "5cf7ad7a-3a1d-4072-b385-449e0d6978f9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "星星及游戏中常用的积分素材-道具-星星_01_512x512_爱给网_aigei_com (1)": {
+      "ver": "1.0.3",
+      "uuid": "f963575e-afeb-42a2-9a28-602a8cdc6d0a",
+      "rawTextureUuid": "5cf7ad7a-3a1d-4072-b385-449e0d6978f9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 512,
+      "height": 512,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
